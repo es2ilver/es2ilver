@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-  <a href="https://instagram.com/alpox.dev">
+  <a href="https://instagram.com/es2ilver">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/es2ilver/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
