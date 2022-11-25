@@ -7,6 +7,15 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esilver)](https://solved.ac/esilver)
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+  <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/es2ilver/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  
+  
 ### 📫 Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:es2ilver@naver.com)](mailto:es2ilver@naver.com)
 <!--
