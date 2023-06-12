@@ -13,8 +13,7 @@
 </a>
   
   
-### 📫 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:es2ilver@naver.com)](mailto:es2ilver@naver.com)
+# 📫 Contacts
 <!--
 **es2ilver/es2ilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
