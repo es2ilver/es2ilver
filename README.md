@@ -14,7 +14,6 @@
 
 <p align="center">
   💡 Stack 💡
-<\p>
   
 <p align="center"> ![header](https://capsule-render.vercel.app/apitype=wave&color=auto&height=300&section=header&text=welcome%20!&fontSize=90) <\p>
   
