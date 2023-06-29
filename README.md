@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  # Hi! 🤚 I'm 정은
+  # Hi! 🤚 I'm Jeongeun
 </div>
 <br/>
 
