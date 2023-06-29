@@ -8,6 +8,7 @@
 <div align="center">
 
   # Hi! 🤚 I'm Jeongeun
+  I'm majoring in Data Science at Korea University.
 </div>
 <br/>
 
