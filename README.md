@@ -10,8 +10,6 @@
   # Hi! 🤚 I'm Jeongeun
   I'm majoring in Data Science at Korea University.
 
-  Attached, you will find my CV below 😉
-  ### [💕🍀ㅤcurriculum vitaeㅤ🍀💕](https://es2ilver.notion.site/c9a3cf3adede4b9eb5c08e63a05292b3?pvs=4)
   
 </div>
 <br/>
